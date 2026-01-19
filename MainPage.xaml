@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ittengoApp.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Button
+                x:Name="DrawBtn"
+                Text="一転語を引く" 
+                SemanticProperties.Hint="一転語を引く"
+                Clicked="DrawBtnClicked"
+                HorizontalOptions="Start" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
