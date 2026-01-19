@@ -15,4 +15,4 @@ This privascy policy may be updated in the future as the app evolves.
 
 ## Contact
 If you have any questions about this privacy policy, please contact:
-Email: 1996naohiro@gmail.com
+Email: contact.tzwn@gmail.com
