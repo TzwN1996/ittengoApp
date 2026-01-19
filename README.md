@@ -12,3 +12,5 @@ Japanese wprd translation app built with .NET MAUI.
 
 ## Goal
 Complete first public release and iterate based on feedback.
+This project is under active development.
+The firse public release is planned for an early MVP.
