@@ -64,8 +64,8 @@
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)'=='Release|net10.0-android'">
 		<AndroidKeyStore>true</AndroidKeyStore>
 		<AndroidSigningKeyStore>C:\keys\ittengo-release.keystore</AndroidSigningKeyStore>
-		<AndroidSigningStorePass>(AndroidStorePassword)</AndroidSigningStorePass>
+		<AndroidSigningStorePass>$(AndroidStorePassword)</AndroidSigningStorePass>
 		<AndroidSigningKeyAlias>ittengo</AndroidSigningKeyAlias>
-		<AndroidSigningKeyPass>(AndroidKeyPassword)</AndroidSigningKeyPass>
+		<AndroidSigningKeyPass>$(AndroidKeyPassword)</AndroidSigningKeyPass>
 	</PropertyGroup>
 </Project>
